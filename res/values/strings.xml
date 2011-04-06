@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SilentModeToggle</string>
+    <string name="On">Turn off Silent Mode</string>
+    <string name="off">Turn On Silent Mode</string>
+    <string name="increase">Increase Volume (+)  </string>
+    <string name="decrease">Decrease Volume (-)</string>
+    <string name="None">Silent Mode</string>
+</resources>
